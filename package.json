@@ -1,0 +1,71 @@
+{
+  "name": "eaz_inc",
+  "version": "1.0.0",
+  "description": "phantom free bootstrap portfolio template",
+  "author": "Themefisher",
+  "license": "MIT",
+  "scripts": {
+    "dev": "gulp",
+    "build": "gulp build"
+  },
+  "dependencies": {
+    "browser-sync": "^2.27.10",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-file-include": "^2.3.0",
+    "gulp-header-comment": "^0.10.0",
+    "gulp-jshint": "^2.1.0",
+    "gulp-notify": "^4.0.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rimraf": "^1.0.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-util": "^3.0.8",
+    "jshint": "^2.13.4",
+    "jshint-stylish": "^2.2.1",
+    "sass": "^1.53.0"
+  },
+  "main": "gulpfile.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MattGDwyer/eaz_inc.git"
+  },
+  "keywords": [
+    "design",
+    "permitting",
+    "contractor",
+    "rainier",
+    "valley",
+    "construction",
+    "design",
+    "&",
+    "build",
+    "seattle",
+    "contractor",
+    "qtlgbtqa",
+    "remodel",
+    "retro",
+    "construction",
+    "craftsman",
+    "historical",
+    "home",
+    "restructure",
+    "addition",
+    "contractor",
+    "near",
+    "me",
+    "seattle",
+    "contractor",
+    "near",
+    "me",
+    "rainier",
+    "valley",
+    "contractor",
+    "near",
+    "me"
+  ],
+  "bugs": {
+    "url": "https://github.com/MattGDwyer/eaz_inc/issues"
+  },
+  "homepage": "https://github.com/MattGDwyer/eaz_inc#readme"
+}
