@@ -5,13 +5,16 @@
 
 .author-image-large {
     position: absolute;
-    right: 0;
+    right: 2vw;
     top: 0;
     img {
-        @include calc(height, "100vh - 4px");
+        @include calc(height, "100vh - 10px");
     }
 }
 
+.welcome-title {
+    margin-right: 10px;
+}
 // .hexagon-item {
 // 	a {
 // 		path {
