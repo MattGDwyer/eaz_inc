@@ -9,11 +9,11 @@
  * Selection color
  */
 ::-moz-selection {
-  background-color: #F3A36D;
+  background-color: #FEDC31;
 }
 
 ::selection {
-  background-color: #F3A36D;
+  background-color: #FEDC31;
 }
 
 /* background color */
@@ -24,44 +24,45 @@
 .hexagon-item:hover .hex-item div::after,
 .progress .bar,
 .contact-social li:hover span {
-  background-color: #F3A36D;
+  background-color: #FEDC31;
 }
 
 .nicescroll-cursors {
-  background: #F3A36D !important;
+  background: #FEDC31 !important;
 }
 
 /* color */
 .primary,
+.company-name-contrast,
 .link:hover,
 .filter .active,
 .works-item h4,
 .msg-success {
-  color: #F3A36D;
+  color: #FEDC31;
 }
 
 /* border color */
 .testimonials .owl-dot.active {
-  border-color: #F3A36D;
+  border-color: #FEDC31;
 }
 
 /* border top color */
 .site-wrapper,
 .contact-social li:hover span::after,
 .contact-social-hex:hover::before {
-  border-top-color: #F3A36D;
+  border-top-color: #FEDC31;
 }
 
 /* border bottom color */
 .filter .active,
 .contact-social li:hover span::before,
 .contact-social-hex:hover::after {
-  border-bottom-color: #F3A36D;
+  border-bottom-color: #FEDC31;
 }
 
 /* fill color */
 .service-hex:hover .fill,
 .service-hex:hover .st1 {
-  fill: #F3A36D;
+  fill: #FEDC31;
 }
 /*# sourceMappingURL=yellow.css.map */

@@ -3,9 +3,10 @@
 -------------------------------------------------*/
 .page-home {
   background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  vertical-align: middle;
+  background-repeat: repeat-x;
+  background-size: contain;
+  vertical-align: bottom;
+
   .overlay {
     background-color: rgba($light, 0.25);
   }
@@ -16,6 +17,9 @@
 // Contains 2 hexagons (.hex)
 .hexagon-menu {
   margin-top: 20vh;
+  // margin-bottom: 0vh;
+  // margin-right: 10vw;
+  // padding: 0;
 }
 
 .hexagon-item {

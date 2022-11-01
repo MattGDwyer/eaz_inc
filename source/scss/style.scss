@@ -66,16 +66,16 @@
   z-index: 1000;
 }
 .company-name {
-  position: absolute;
-  left: 10px;
-  top: 20px;
+  // position: absolute;
+  // left: 10px;
+  // top: 20px;
   color: white;
   font-family: 'Rubik', sans-serif;
   font-size: 36px;
   font-weight: 100;
 }
-.company-name-pink {
-  color: #fa6862;
+.company-name-contrast {
+  color: $primary-color;
 }
 
 .page-title {
@@ -868,16 +868,16 @@
   cursor: pointer;
 }
 .color-options li.c0 {
-  background-color: #fa6862;
+  background-color: #7D4653;
 }
 .color-options li.c1 {
-  background-color: #02b7ce;
+  background-color: #C4B5C4;
 }
 .color-options li.c2 {
-  background-color: #86a438;
+  background-color: #88F793;
 }
 .color-options li.c3 {
-  background-color: #f3a36d;
+  background-color: #FEDC31;
 }
 .pattern-options li {
   font-family: "Roboto", sans-serif;
